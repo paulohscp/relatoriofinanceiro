@@ -1,0 +1,51 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Claude Code internals
+.claude/
+*.claude-session
+
+# Backups
+*.bak
+*.backup
+*.orig
+_backup*/
+
+# Temp / cache
+tmp/
+temp/
+.cache/
+
+# Dados pessoais — NUNCA comitar
+*.pdf
+**/Faturas/
+**/Recibo*Pagamento/
+**/Outros/
+ocr_output/
+pdfs/
+
+# Versões reais com dados privados
+dashboard.html
+versions/
+PROJETO_DASHBOARD_FINANCEIRO.txt
+
+# Scripts auxiliares com valores reais
+make_demo.py
+fix_demo.py
+
+# Build output
+*.png
+*.jpg
+*.jpeg
