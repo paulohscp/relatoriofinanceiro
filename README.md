@@ -4,7 +4,7 @@ Como economista e analista de governança, minha rotina envolve criar visibilida
 
 O **Dashboard Financeiro** é uma ferramenta *single-page* e autocontida que consolida o fluxo de caixa (cartões, utilities, salário) e o balanço patrimonial (ativos, fundos, dívidas) em uma visão executiva clara, rápida e focada em tomada de decisão.
 
-> 🎭 **[Abra `demo.html`](demo.html) para ver o dashboard em funcionamento** — sem build, sem instalação, rodando direto no navegador.
+> 🎭 [Acesse o Dashboard Interativo](https://paulohscp.github.io/relatoriofinanceiro/) para ver o projeto em funcionamento direto no navegador.
 
 ---
 
